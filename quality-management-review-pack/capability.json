@@ -1,0 +1,47 @@
+{
+  "id": "quality-management-review-pack",
+  "name": "Quality management review pack",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before the periodic quality review, the quality lead gets one brief for senior leaders: where each measure stands, complaints and defects, audit findings, action status, and the decisions still open. The leaders decide; the brief claims no compliance with any standard.",
+  "directory": "https://fullypowered.ai/capabilities/quality-management-review-pack/",
+  "primary_function": "functions/quality-management",
+  "functions": [
+    "functions/quality-management",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/manufacturing",
+    "industries/life-sciences",
+    "industries/hardware-and-physical-technology"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "obsolete-copy-check",
+    "operations-kpi-scorecard",
+    "decision-log"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of quality management work, written into a method for the periodic review brief."
+    }
+  ]
+}

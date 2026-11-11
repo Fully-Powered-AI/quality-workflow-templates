@@ -1,0 +1,48 @@
+{
+  "id": "cost-of-poor-quality-worksheet",
+  "name": "Cost of poor quality worksheet",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "An owner or operations lead who senses that rework, scrap and returns are costly gets one worksheet: the failure costs already on record, sorted by category, with estimates, gaps and unresolved allocations listed. The owner decides what to fix first.",
+  "directory": "https://fullypowered.ai/capabilities/cost-of-poor-quality-worksheet/",
+  "primary_function": "functions/quality-management",
+  "functions": [
+    "functions/quality-management",
+    "functions/operations-and-process-improvement",
+    "functions/finance-and-accounting"
+  ],
+  "industries": [
+    "industries/manufacturing",
+    "industries/construction",
+    "industries/ecommerce-and-retail"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "repeat-incident-pattern-review",
+    "product-landed-cost-worksheet",
+    "budget-versus-actual-variance-commentary"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of the work of gathering what rework, scrap and returns have cost into one worksheet, and its own rules for prepared work: stated column headers with a stop when one does not match, every cost shown with how it is known, unknown costs left unknown, estimates and possible duplicates set apart, and nothing changed, sent or decided until a person decides."
+    }
+  ]
+}

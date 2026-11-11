@@ -1,0 +1,48 @@
+{
+  "id": "supplier-quality-response-check",
+  "name": "Supplier quality response check",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "A quality or purchasing person who has raised a defect with a supplier gets the supplier's reply set against the finding: what is answered, what is not, the evidence still to ask for, the actions proposed and what has yet to be verified. The person decides whether the answer is accepted.",
+  "directory": "https://fullypowered.ai/capabilities/supplier-quality-response-check/",
+  "primary_function": "functions/quality-management",
+  "functions": [
+    "functions/quality-management",
+    "functions/procurement-and-suppliers",
+    "functions/supply-chain-and-inventory"
+  ],
+  "industries": [
+    "industries/manufacturing",
+    "industries/consumer-brands",
+    "industries/hardware-and-physical-technology"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "supplier-issue-notice",
+    "supplier-performance-scorecard",
+    "incident-investigation-and-corrective-actions"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of the work of checking a supplier's reply to a quality finding, and its own rules for prepared work: a fixed finding record with stated labels, a stop when an input does not match, every statement in the reply numbered and set against the request it answers, a promised action never counted as a completed or verified one, every gap written as a question or a request for evidence, and nothing accepted, sent, closed or changed until a person decides."
+    }
+  ]
+}

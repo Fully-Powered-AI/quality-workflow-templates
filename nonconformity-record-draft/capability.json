@@ -1,0 +1,46 @@
+{
+  "id": "nonconformity-record-draft",
+  "name": "Nonconformity record draft",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "A quality lead or supervisor who has spotted something wrong gets a draft record: the observation set against the stated requirement, the affected work counted from the register, and the containment options. The quality owner decides every call.",
+  "directory": "https://fullypowered.ai/capabilities/nonconformity-record-draft/",
+  "primary_function": "functions/quality-management",
+  "functions": [
+    "functions/quality-management",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/manufacturing",
+    "industries/construction",
+    "industries/logistics-and-trade"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "incident-investigation-and-corrective-actions",
+    "complaint-and-refund-request-handling",
+    "audit-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of quality management work, and its own rules for prepared work: the starter's notes and the stated requirement as the only authority, stated column headers with a stop when one does not match, suspected kept apart from confirmed, every gap written as a question, and nothing classified, held, sent or recorded until a person decides."
+    }
+  ]
+}

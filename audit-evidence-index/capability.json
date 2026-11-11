@@ -1,0 +1,45 @@
+{
+  "id": "audit-evidence-index",
+  "name": "Audit evidence index",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The quality lead gets an index of everything an audit has asked to see: each request linked to the document that answers it, its version and owner, the records found and the gaps. The quality owner decides what is shared; nothing is certified or sent.",
+  "directory": "https://fullypowered.ai/capabilities/audit-evidence-index/",
+  "primary_function": "functions/quality-management",
+  "functions": [
+    "functions/quality-management"
+  ],
+  "industries": [
+    "industries/manufacturing",
+    "industries/life-sciences",
+    "industries/engineering-firms"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "obsolete-copy-check",
+    "audit-preparation",
+    "shared-folder-filing-plan"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of quality-audit coordination, written without third-party text."
+    }
+  ]
+}

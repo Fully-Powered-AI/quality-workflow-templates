@@ -1,0 +1,45 @@
+{
+  "id": "obsolete-copy-check",
+  "name": "Obsolete copy check",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The quality lead gets the master document list set against the copies found at each point of use: which copies are out of date, which withdrawn documents are still held, and what proof of withdrawal exists. The document owner withdraws and replaces copies; nothing is changed.",
+  "directory": "https://fullypowered.ai/capabilities/obsolete-copy-check/",
+  "primary_function": "functions/quality-management",
+  "functions": [
+    "functions/quality-management"
+  ],
+  "industries": [
+    "industries/manufacturing",
+    "industries/life-sciences",
+    "industries/construction"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "sop-from-how-the-work-is-done",
+    "shared-folder-filing-plan",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of controlled-document work, written without third-party text."
+    }
+  ]
+}
