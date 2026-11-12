@@ -5,7 +5,7 @@
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of one run of the capability template on its own invented example. The companies, lots and figures are all invented, and no client data was used. It is the second run on the same example. An earlier run the same day found defects in the instructions and the example; both were revised, and the run recorded here was made on the revised instruction block and the revised inputs. What the earlier run found, and what was changed, is at the end.
+This is a record of one run of the workflow template on its own invented example. The companies, lots and figures are all invented, and no client data was used. It is the second run on the same example. An earlier run the same day found defects in the instructions and the example; both were revised, and the run recorded here was made on the revised instruction block and the revised inputs. What the earlier run found, and what was changed, is at the end.
 
 ## Inputs used
 

@@ -2,11 +2,11 @@
 
 The quality lead gets an index of everything an audit has asked to see: each request linked to the document that answers it, its version and owner, the records found and the gaps. The quality owner decides what is shared; nothing is certified or sent.
 
-*Capability template · Quality management · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/audit-evidence-index/)*
+*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/audit-evidence-index/)*
 
 ## The outcome
 
-An audit request list is easy to receive and slow to answer. Each line has to be traced to a document, the right revision found, the records behind it located, and someone chased when a piece is missing. This capability does that tracing in one pass, before the audit, so the gaps surface while there is still time to close them.
+An audit request list is easy to receive and slow to answer. Each line has to be traced to a document, the right revision found, the records behind it located, and someone chased when a piece is missing. This workflow template does that tracing in one pass, before the audit, so the gaps surface while there is still time to close them.
 
 You receive an index with one entry per request. Each entry says which document answers it, which revision the register holds and whether that revision is in force, who owns the document, which records were supplied and where they are kept, and which earlier findings touch the same ground. Every request ends up in one of four states: linked, check first, possible match only, or nothing found. A line at the top proves the four counts add up to the number of requests.
 
@@ -42,13 +42,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Fix the four files and their column names once, so every audit starts from the same exports. Decide your lead time, which sets the hand-off date. Decide which register status means a document is in force; the template assumes "Effective". Say whether a blank owner means vacant or simply not recorded. Agree who answers for a document with no owner. Choose how the index reaches the auditors, because the template only prepares it. Separate this index from broader preparation: [Audit preparation](https://fullypowered.ai/capabilities/audit-preparation/) covers a finance audit, and [Shared folder filing plan](https://fullypowered.ai/capabilities/shared-folder-filing-plan/) tidies where files live.
+Fix the four files and their column names once, so every audit starts from the same exports. Decide your lead time, which sets the hand-off date. Decide which register status means a document is in force; the template assumes "Effective". Say whether a blank owner means vacant or simply not recorded. Agree who answers for a document with no owner. Choose how the index reaches the auditors, because the template only prepares it. Separate this index from broader preparation: [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/) covers a finance audit, and [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/) tidies where files live.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, in two runs: an independent review changed the instruction block, the output format and the example after the first, and the record of the second is published with it. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, in two runs: an independent review changed the instruction block, the output format and the example after the first, and the record of the second is published with it. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past audit you know well, with cases written in advance: a request that names a document the register lacks, a record made under a superseded revision, a document with no owner, a request that only half-matches. The quality owner checks every link against the actual files before anyone relies on the index. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past audit you know well, with cases written in advance: a request that names a document the register lacks, a record made under a superseded revision, a document with no owner, a request that only half-matches. The quality owner checks every link against the actual files before anyone relies on the index. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -59,11 +59,11 @@ Testing in your environment means running it on a past audit you know well, with
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -73,12 +73,12 @@ Testing in your environment means running it on a past audit you know well, with
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Obsolete copy check](../obsolete-copy-check/)
-- [Audit preparation](https://fullypowered.ai/capabilities/audit-preparation/)
-- [Shared folder filing plan](https://fullypowered.ai/capabilities/shared-folder-filing-plan/)
+- [Audit preparation](https://fullypowered.ai/workflow templates/audit-preparation/)
+- [Shared folder filing plan](https://fullypowered.ai/workflow templates/shared-folder-filing-plan/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

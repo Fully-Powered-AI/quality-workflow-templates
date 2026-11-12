@@ -1,6 +1,6 @@
 # Nonconformity record draft
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -21,7 +21,7 @@ Do not use it:
 ## Roles
 
 - **Observer** (spotted the issue; wrote or gave the notes; may also type the requirement from the document at the point of use): a supervisor, a quality lead or anyone on the floor. The observer and the starter can be the same person or two.
-- **Starter** (runs the capability, supplies the inputs and edits the notes into a draft; the draft is prepared for the starter and the quality owner): a quality lead or a supervisor.
+- **Starter** (runs the workflow template, supplies the inputs and edits the notes into a draft; the draft is prepared for the starter and the quality owner): a quality lead or a supervisor.
 - **Quality owner** (decides whether it is a nonconformity, its classification on the company's own scale, the containment and the disposition; assigns the record number): the role your settings name.
 - **Safety role** (told first if the notes suggest a risk of harm): the role your settings name.
 - **Work owner** (knows the work and the register, confirms what is affected): the supervisor or process owner.

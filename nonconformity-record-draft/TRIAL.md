@@ -109,7 +109,7 @@ Not completed, and what is needed: current revision check; measurement of the pi
 
 ## Where the template was ambiguous or needed a guess
 
-- Who the "starter" is. The roles section says a quality lead or a supervisor; in the example the supervisor wrote the notes and the quality lead ran the capability. "Prepared for [starter]" is therefore unclear.
+- Who the "starter" is. The roles section says a quality lead or a supervisor; in the example the supervisor wrote the notes and the quality lead ran the workflow template. "Prepared for [starter]" is therefore unclear.
 - Whether the last known good lot belongs in "Left out" or "Already outside your control" when it has also left the site. The template says to list "any lot" that has left the site under the second heading, but the last known good lot is not in the possibly affected set.
 - "Register as of date": the export has no as-of date, and the format asks for one. The draft wrote "no as-of date given".
 - Whether a lot made today (L-3315) is complete. The register cannot say, and the template has no line for it, so it became a decision.
@@ -127,7 +127,7 @@ This is one run, by one model, on one invented example. It shows the instruction
 Made following an independent review. The recorded output and observations above are unchanged, and the template was not run again after these edits. Each settles an ambiguity the run found, mostly in the way the run already chose.
 
 - Shipped lots: the template (step 7, the instruction block and reviewer checklist item 6) now says every lot that has left the site is listed under "Already outside your control", whether it is possibly affected, the last known good lot or left out of the search, and says which. The published example now lists lot L-3310 there, as this run's draft did. Acceptance test 15 covers it.
-- Observer and starter: Roles now separate the observer (spotted it, wrote the notes) from the starter (runs the capability). "Prepared for [starter]" means the person who ran it, which is the quality lead in the example; this run's draft named the supervisor, who was the observer.
+- Observer and starter: Roles now separate the observer (spotted it, wrote the notes) from the starter (runs the workflow template). "Prepared for [starter]" means the person who ran it, which is the quality lead in the example; this run's draft named the supervisor, who was the observer.
 - Register as-of date: the output format now accepts "as-of date not given", as this run wrote; the example says so.
 - "Not completed": defined as each open check under "Confirm" and each item under "Not supplied" the starter could settle, with what would settle it. The example's line now lists the revision check, the caliper calibration and the 115 unexamined parts, as this run did.
 - Within-requirement case: the exception now overrides "print every section".

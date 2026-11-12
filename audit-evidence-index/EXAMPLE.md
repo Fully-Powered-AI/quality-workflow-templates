@@ -1,6 +1,6 @@
 # Audit evidence index: an invented example
 
-*Illustrative example with invented data.* The company, the people, the documents, the records and the dates below are all invented. The company is an invented 80-person precision-parts manufacturer preparing for an internal audit of its quality system. In this example the quality manager is both the quality lead who runs the capability and the quality owner who reviews the index. First come the inputs the quality manager supplied, in full, then the index the capability returned.
+*Illustrative example with invented data.* The company, the people, the documents, the records and the dates below are all invented. The company is an invented 80-person precision-parts manufacturer preparing for an internal audit of its quality system. In this example the quality manager is both the quality lead who runs the workflow template and the quality owner who reviews the index. First come the inputs the quality manager supplied, in full, then the index the workflow template returned.
 
 ## The inputs
 

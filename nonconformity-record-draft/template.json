@@ -1,10 +1,10 @@
 {
   "id": "nonconformity-record-draft",
   "name": "Nonconformity record draft",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A quality lead or supervisor who has spotted something wrong gets a draft record: the observation set against the stated requirement, the affected work counted from the register, and the containment options. The quality owner decides every call.",
-  "directory": "https://fullypowered.ai/capabilities/nonconformity-record-draft/",
+  "directory": "https://fullypowered.ai/workflow templates/nonconformity-record-draft/",
   "primary_function": "functions/quality-management",
   "functions": [
     "functions/quality-management",

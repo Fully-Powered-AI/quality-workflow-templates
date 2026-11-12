@@ -2,11 +2,11 @@
 
 A quality lead or supervisor who has spotted something wrong gets a draft record: the observation set against the stated requirement, the affected work counted from the register, and the containment options. The quality owner decides every call.
 
-*Capability template · Quality management · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/nonconformity-record-draft/)*
+*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/nonconformity-record-draft/)*
 
 ## The outcome
 
-Something looks wrong on the floor, and the notes are in a pocket or a message thread. This capability turns them into a draft record the quality owner can confirm or reject the same day. What was observed is kept apart from what is only suspected. The requirement is quoted in its own words, with its document and revision, and the observation is set against it with the difference worked out. The work that may be affected comes from your own register, with the pieces counted and anything already shipped called out.
+Something looks wrong on the floor, and the notes are in a pocket or a message thread. This workflow template turns them into a draft record the quality owner can confirm or reject the same day. What was observed is kept apart from what is only suspected. The requirement is quoted in its own words, with its document and revision, and the observation is set against it with the difference worked out. The work that may be affected comes from your own register, with the pieces counted and anything already shipped called out.
 
 The draft ends with the decisions that belong to the quality owner, each written as a question: whether this is a nonconformity, how serious it is on your scale, what to contain, and whether anyone outside the company needs to know. The assistant classifies nothing, accepts or rejects no work, and certifies nothing.
 
@@ -38,7 +38,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Logistics & trade](https://fullypowered.ai/industries/logistics-and-trade/), where goods that differ from an order or a specification may already be on a vehicle.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where quality records have outgrown notes and memory.
 
-It stops where cause and action begin. [Incident investigation and corrective actions](https://fullypowered.ai/capabilities/incident-investigation-and-corrective-actions/) covers cause and corrective actions once the record is accepted, and [complaint and refund request handling](https://fullypowered.ai/capabilities/complaint-and-refund-request-handling/) covers a customer's complaint.
+It stops where cause and action begin. [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/) covers cause and corrective actions once the record is accepted, and [complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/) covers a customer's complaint.
 
 ## What has to change for your company
 
@@ -46,9 +46,9 @@ Name your quality owner and your safety role. Enter your classification scale; t
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and lists the edits made afterward that have not been run again. Only the path with no safety risk and no reading within the limit was exercised: the stop conditions and the refusals were not tried. It has not yet been tested in a client environment, and has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and lists the edits made afterward that have not been run again. Only the path with no safety risk and no reading within the limit was exercised: the stop conditions and the refusals were not tried. It has not yet been tested in a client environment, and has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past observations your quality lead already knows, with cases written in advance: a reading on the limit, a lot that has shipped, a requirement with no revision, a similar closed record. The quality lead checks every figure against the notes and the register before anyone relies on the draft. [Audit preparation](https://fullypowered.ai/capabilities/audit-preparation/) is a good companion for keeping the records that go with it.
+Testing in your environment means running it on past observations your quality lead already knows, with cases written in advance: a reading on the limit, a lot that has shipped, a requirement with no revision, a similar closed record. The quality lead checks every figure against the notes and the register before anyone relies on the draft. [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/) is a good companion for keeping the records that go with it.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -59,11 +59,11 @@ Testing in your environment means running it on past observations your quality l
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -73,12 +73,12 @@ Testing in your environment means running it on past observations your quality l
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Incident investigation and corrective actions](https://fullypowered.ai/capabilities/incident-investigation-and-corrective-actions/)
-- [Complaint and refund request handling](https://fullypowered.ai/capabilities/complaint-and-refund-request-handling/)
-- [Audit preparation](https://fullypowered.ai/capabilities/audit-preparation/)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflow templates/incident-investigation-and-corrective-actions/)
+- [Complaint and refund request handling](https://fullypowered.ai/workflow templates/complaint-and-refund-request-handling/)
+- [Audit preparation](https://fullypowered.ai/workflow templates/audit-preparation/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

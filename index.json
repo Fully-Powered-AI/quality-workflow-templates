@@ -1,15 +1,15 @@
 {
-  "repository": "Fully-Powered-AI/quality-capability-templates",
+  "repository": "Fully-Powered-AI/quality-workflow-templates",
   "title": "Quality Management",
   "term": "functions/quality-management",
-  "capabilities": [
+  "templates": [
     {
       "id": "audit-evidence-index",
       "name": "Audit evidence index",
       "version": "0.1.0",
       "summary": "The quality lead gets an index of everything an audit has asked to see: each request linked to the document that answers it, its version and owner, the records found and the gaps. The quality owner decides what is shared; nothing is certified or sent.",
       "path": "audit-evidence-index/",
-      "directory": "https://fullypowered.ai/capabilities/audit-evidence-index/"
+      "directory": "https://fullypowered.ai/workflow templates/audit-evidence-index/"
     },
     {
       "id": "cost-of-poor-quality-worksheet",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "An owner or operations lead who senses that rework, scrap and returns are costly gets one worksheet: the failure costs already on record, sorted by category, with estimates, gaps and unresolved allocations listed. The owner decides what to fix first.",
       "path": "cost-of-poor-quality-worksheet/",
-      "directory": "https://fullypowered.ai/capabilities/cost-of-poor-quality-worksheet/"
+      "directory": "https://fullypowered.ai/workflow templates/cost-of-poor-quality-worksheet/"
     },
     {
       "id": "nonconformity-record-draft",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "A quality lead or supervisor who has spotted something wrong gets a draft record: the observation set against the stated requirement, the affected work counted from the register, and the containment options. The quality owner decides every call.",
       "path": "nonconformity-record-draft/",
-      "directory": "https://fullypowered.ai/capabilities/nonconformity-record-draft/"
+      "directory": "https://fullypowered.ai/workflow templates/nonconformity-record-draft/"
     },
     {
       "id": "obsolete-copy-check",
@@ -33,7 +33,7 @@
       "version": "0.1.0",
       "summary": "The quality lead gets the master document list set against the copies found at each point of use: which copies are out of date, which withdrawn documents are still held, and what proof of withdrawal exists. The document owner withdraws and replaces copies; nothing is changed.",
       "path": "obsolete-copy-check/",
-      "directory": "https://fullypowered.ai/capabilities/obsolete-copy-check/"
+      "directory": "https://fullypowered.ai/workflow templates/obsolete-copy-check/"
     },
     {
       "id": "quality-management-review-pack",
@@ -41,7 +41,7 @@
       "version": "0.1.0",
       "summary": "Before the periodic quality review, the quality lead gets one brief for senior leaders: where each measure stands, complaints and defects, audit findings, action status, and the decisions still open. The leaders decide; the brief claims no compliance with any standard.",
       "path": "quality-management-review-pack/",
-      "directory": "https://fullypowered.ai/capabilities/quality-management-review-pack/"
+      "directory": "https://fullypowered.ai/workflow templates/quality-management-review-pack/"
     },
     {
       "id": "supplier-quality-response-check",
@@ -49,7 +49,7 @@
       "version": "0.1.0",
       "summary": "A quality or purchasing person who has raised a defect with a supplier gets the supplier's reply set against the finding: what is answered, what is not, the evidence still to ask for, the actions proposed and what has yet to be verified. The person decides whether the answer is accepted.",
       "path": "supplier-quality-response-check/",
-      "directory": "https://fullypowered.ai/capabilities/supplier-quality-response-check/"
+      "directory": "https://fullypowered.ai/workflow templates/supplier-quality-response-check/"
     }
   ]
 }

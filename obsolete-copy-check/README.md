@@ -2,15 +2,15 @@
 
 The quality lead gets the master document list set against the copies found at each point of use: which copies are out of date, which withdrawn documents are still held, and what proof of withdrawal exists. The document owner withdraws and replaces copies; nothing is changed.
 
-*Capability template · Quality management · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/obsolete-copy-check/)*
+*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/obsolete-copy-check/)*
 
 ## The outcome
 
-When a procedure is revised, the old version does not disappear on its own. It stays pinned above a bench, saved on a shared tablet or filed in a binder, and the people using it have no way to know. This capability gives the quality lead a clear answer to one question: where is an instruction in use that should no longer be?
+When a procedure is revised, the old version does not disappear on its own. It stays pinned above a bench, saved on a shared tablet or filed in a binder, and the people using it have no way to know. This workflow template gives the quality lead a clear answer to one question: where is an instruction in use that should no longer be?
 
 You receive a comparison of your master document list with the inventories of the places where copies are kept. Every copy found is sorted: current, out of date, a withdrawn document, a revision nobody recognises, a document the master list does not know, or not yet due to change. For each out-of-date copy you see the withdrawal evidence on file and whether it agrees with what was found. You also see the places nobody has inventoried, so the report never pretends to be a clean bill of health.
 
-The capability changes no document and removes no copy. Document control confirms what is obsolete, and the document owner withdraws and replaces copies through your agreed process.
+The workflow template changes no document and removes no copy. Document control confirms what is obsolete, and the document owner withdraws and replaces copies through your agreed process.
 
 ## Who starts the work, and when
 
@@ -47,9 +47,9 @@ Fix the files and their column names once, so each review starts from the same e
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and it was not a blind trial, since the run had seen the published output before writing its own. The points that run and the independent review found open were settled afterwards, without a rerun. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and it was not a blind trial, since the run had seen the published output before writing its own. The points that run and the independent review found open were settled afterwards, without a rerun. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past review you already know well, with cases written in advance: a withdrawal recorded but the copy still there, a location nobody inventoried, an inventory that predates the withdrawal, a revision not on the history. Document control checks every finding against the physical copy before anyone relies on the report. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep. For writing the procedure itself, see [Write an SOP from how the work is done](https://fullypowered.ai/capabilities/sop-from-how-the-work-is-done/); for tidying electronic folders, see [Shared folder filing plan](https://fullypowered.ai/capabilities/shared-folder-filing-plan/).
+Testing in your environment means running it on a past review you already know well, with cases written in advance: a withdrawal recorded but the copy still there, a location nobody inventoried, an inventory that predates the withdrawal, a revision not on the history. Document control checks every finding against the physical copy before anyone relies on the report. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep. For writing the procedure itself, see [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/); for tidying electronic folders, see [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/).
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -60,11 +60,11 @@ Testing in your environment means running it on a past review you already know w
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -74,12 +74,12 @@ Testing in your environment means running it on a past review you already know w
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Write an SOP from how the work is done](https://fullypowered.ai/capabilities/sop-from-how-the-work-is-done/)
-- [Shared folder filing plan](https://fullypowered.ai/capabilities/shared-folder-filing-plan/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/)
+- [Write an SOP from how the work is done](https://fullypowered.ai/workflow templates/sop-from-how-the-work-is-done/)
+- [Shared folder filing plan](https://fullypowered.ai/workflow templates/shared-folder-filing-plan/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

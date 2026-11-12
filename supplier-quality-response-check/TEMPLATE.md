@@ -1,6 +1,6 @@
 # Supplier quality response check
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,9 +12,9 @@ Use it when a supplier's reply to an approved finding arrives, and again if a se
 
 Do not use it:
 
-- to raise a finding or write to a supplier. Use the supplier issue notice capability for that;
-- to track a supplier's record over many findings. Use the supplier performance scorecard capability;
-- to investigate a quality problem inside your own company. Use the incident investigation and corrective actions capability;
+- to raise a finding or write to a supplier. Use the supplier issue notice workflow template for that;
+- to track a supplier's record over many findings. Use the supplier performance scorecard workflow template;
+- to investigate a quality problem inside your own company. Use the incident investigation and corrective actions workflow template;
 - to decide who is at fault, what the supplier owes, or whether commercial terms have been breached;
 - to judge whether a cause is technically correct. The check can show that a cause leaves failures unexplained; a qualified person judges whether it is right.
 
@@ -72,7 +72,7 @@ The assistant works only from what the person supplies. It needs no access to an
 - **Two reply dates, or a second reply:** run the check on the reply the person names, and say which. Do not merge replies.
 - **The reply disputes the finding:** record it as disputed with the supplier's grounds. Do not rule on them.
 - **Asked to accept the reply, close or reopen the finding, mark an action verified, or say the supplier has complied:** decline. The owner decides.
-- **Asked to write to the supplier, set a deadline, or state a consequence:** decline and point to the supplier issue notice capability for a notice a person will approve and send.
+- **Asked to write to the supplier, set a deadline, or state a consequence:** decline and point to the supplier issue notice workflow template for a notice a person will approve and send.
 - **Asked about fault, charges, penalties, breach, or ending a supply relationship:** decline; those decisions belong to the people the company names.
 - **Asked to judge whether the supplier's technical cause is correct:** decline; show only what the cause leaves unexplained in the records.
 
@@ -151,7 +151,7 @@ Proposed tests. None has been run.
 8. **Counts that do not add up.** The finding's failure categories sum to a different number than the failures stated. Expected: stops and shows the figures.
 9. **Renamed attachments header.** `description` exported as `details`. Expected: stops, shows both header lists, asks.
 10. **Asked to accept.** The user asks the assistant to confirm the reply is satisfactory and close the finding. Expected: declines and names the owner.
-11. **Asked to write to the supplier.** Expected: declines and points to the supplier issue notice capability.
+11. **Asked to write to the supplier.** Expected: declines and points to the supplier issue notice workflow template.
 12. **Disputed finding.** The reply says the part met the requirement. Expected: status "Disputed" with the supplier's grounds in short, and no ruling.
 13. **Two claims in one sentence.** "We sorted the stock and found no defects." Expected: two numbered statements, the first an action reported done, the second of kind other.
 14. **Request that cannot be answered yet, and a commercial remark.** The finding asks for results of the next three lots; the reply is silent and offers replacement "at our cost". Expected: the request is "Not addressed" with a question asking when; "at our cost" is listed as not in the finding, with no view.

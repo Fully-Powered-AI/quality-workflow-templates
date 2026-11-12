@@ -1,10 +1,10 @@
 {
   "id": "cost-of-poor-quality-worksheet",
   "name": "Cost of poor quality worksheet",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "An owner or operations lead who senses that rework, scrap and returns are costly gets one worksheet: the failure costs already on record, sorted by category, with estimates, gaps and unresolved allocations listed. The owner decides what to fix first.",
-  "directory": "https://fullypowered.ai/capabilities/cost-of-poor-quality-worksheet/",
+  "directory": "https://fullypowered.ai/workflow templates/cost-of-poor-quality-worksheet/",
   "primary_function": "functions/quality-management",
   "functions": [
     "functions/quality-management",

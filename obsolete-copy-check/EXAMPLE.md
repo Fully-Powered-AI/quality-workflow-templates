@@ -1,6 +1,6 @@
 # Obsolete copy check: an invented example
 
-*Illustrative example with invented data.* The firm, the people, the documents, the locations, the dates and the references below are all invented. The firm is an invented 70-person precision-parts maker whose document controller runs the monthly review of controlled documents. First come the inputs the document controller supplied, in full, then the report the capability returned.
+*Illustrative example with invented data.* The firm, the people, the documents, the locations, the dates and the references below are all invented. The firm is an invented 70-person precision-parts maker whose document controller runs the monthly review of controlled documents. First come the inputs the document controller supplied, in full, then the report the workflow template returned.
 
 ## The inputs
 

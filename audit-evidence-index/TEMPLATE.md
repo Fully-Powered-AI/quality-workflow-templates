@@ -1,6 +1,6 @@
 # Audit evidence index
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -10,7 +10,7 @@ Build the index a quality lead needs before an internal or customer audit: every
 
 Use it when an audit request list has arrived and the documents and records are held in different places and by different owners. It suits an internal audit or a customer audit. Run it again when requests are added or records are found.
 
-Do not use it to plan the audit programme, to prepare a finance audit (use the audit preparation capability), to find stale copies at points of use (use the obsolete copy check), or to reorganise folders (use the shared folder filing plan). Do not use it to answer an auditor's finding, or to say whether the quality system conforms.
+Do not use it to plan the audit programme, to prepare a finance audit (use the audit preparation workflow template), to find stale copies at points of use (use the obsolete copy check), or to reorganise folders (use the shared folder filing plan). Do not use it to answer an auditor's finding, or to say whether the quality system conforms.
 
 ## Roles
 

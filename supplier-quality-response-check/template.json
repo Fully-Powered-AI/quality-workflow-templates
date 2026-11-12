@@ -1,10 +1,10 @@
 {
   "id": "supplier-quality-response-check",
   "name": "Supplier quality response check",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A quality or purchasing person who has raised a defect with a supplier gets the supplier's reply set against the finding: what is answered, what is not, the evidence still to ask for, the actions proposed and what has yet to be verified. The person decides whether the answer is accepted.",
-  "directory": "https://fullypowered.ai/capabilities/supplier-quality-response-check/",
+  "directory": "https://fullypowered.ai/workflow templates/supplier-quality-response-check/",
   "primary_function": "functions/quality-management",
   "functions": [
     "functions/quality-management",

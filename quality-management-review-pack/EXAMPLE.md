@@ -1,6 +1,6 @@
 # Quality management review pack: an invented example
 
-*Illustrative example with invented data.* The company, the people, the records and every figure below are invented. The company is an invented 140-person maker of metal enclosures and brackets, with a quality lead who reports to an operations director and a managing director. First come the inputs the quality lead supplied, in full, then the brief the capability returned.
+*Illustrative example with invented data.* The company, the people, the records and every figure below are invented. The company is an invented 140-person maker of metal enclosures and brackets, with a quality lead who reports to an operations director and a managing director. First come the inputs the quality lead supplied, in full, then the brief the workflow template returned.
 
 ## The inputs
 

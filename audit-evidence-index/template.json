@@ -1,10 +1,10 @@
 {
   "id": "audit-evidence-index",
   "name": "Audit evidence index",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The quality lead gets an index of everything an audit has asked to see: each request linked to the document that answers it, its version and owner, the records found and the gaps. The quality owner decides what is shared; nothing is certified or sent.",
-  "directory": "https://fullypowered.ai/capabilities/audit-evidence-index/",
+  "directory": "https://fullypowered.ai/workflow templates/audit-evidence-index/",
   "primary_function": "functions/quality-management",
   "functions": [
     "functions/quality-management"

@@ -1,6 +1,6 @@
 # Quality management review pack
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -16,7 +16,7 @@ Do not use it:
 - to prepare a board or investor pack;
 - to say that the organization conforms to a standard, a regulation or a customer requirement, or to rate a person's performance;
 - to investigate the cause of a defect or to judge whether an action worked. Those are tasks for the people who own them;
-- when no measure sheet or results export exists. The quality lead writes the first versions; this capability reads them.
+- when no measure sheet or results export exists. The quality lead writes the first versions; this workflow template reads them.
 
 ## Roles
 

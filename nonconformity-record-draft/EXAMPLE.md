@@ -1,6 +1,6 @@
 # Nonconformity record draft: an invented example
 
-*Illustrative example with invented data.* The company, the people, the parts, the readings, the lots and the dates below are all invented. The company is an invented 80-person sheet-metal fabrication shop, called Workshop A here. A supervisor on the early shift spots a possible problem on a bracket, and the quality lead runs the capability to prepare the draft record. First come the inputs the quality lead supplied, in full, then the draft the capability returned.
+*Illustrative example with invented data.* The company, the people, the parts, the readings, the lots and the dates below are all invented. The company is an invented 80-person sheet-metal fabrication shop, called Workshop A here. A supervisor on the early shift spots a possible problem on a bracket, and the quality lead runs the workflow template to prepare the draft record. First come the inputs the quality lead supplied, in full, then the draft the workflow template returned.
 
 ## The inputs
 
