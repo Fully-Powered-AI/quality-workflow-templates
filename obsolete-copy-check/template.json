@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The quality lead gets the master document list set against the copies found at each point of use: which copies are out of date, which withdrawn documents are still held, and what proof of withdrawal exists. The document owner withdraws and replaces copies; nothing is changed.",
-  "directory": "https://fullypowered.ai/workflow templates/obsolete-copy-check/",
+  "directory": "https://fullypowered.ai/workflows/obsolete-copy-check/",
   "primary_function": "functions/quality-management",
   "functions": [
     "functions/quality-management"

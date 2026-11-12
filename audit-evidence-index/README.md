@@ -2,7 +2,7 @@
 
 The quality lead gets an index of everything an audit has asked to see: each request linked to the document that answers it, its version and owner, the records found and the gaps. The quality owner decides what is shared; nothing is certified or sent.
 
-*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/audit-evidence-index/)*
+*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/audit-evidence-index/)*
 
 ## The outcome
 
@@ -76,8 +76,8 @@ Testing in your environment means running it on a past audit you know well, with
 ## Related workflow templates
 
 - [Obsolete copy check](../obsolete-copy-check/)
-- [Audit preparation](https://fullypowered.ai/workflow templates/audit-preparation/)
-- [Shared folder filing plan](https://fullypowered.ai/workflow templates/shared-folder-filing-plan/)
+- [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/)
+- [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/)
 
 ## Make it yours
 

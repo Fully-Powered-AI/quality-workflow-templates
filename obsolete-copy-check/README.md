@@ -2,7 +2,7 @@
 
 The quality lead gets the master document list set against the copies found at each point of use: which copies are out of date, which withdrawn documents are still held, and what proof of withdrawal exists. The document owner withdraws and replaces copies; nothing is changed.
 
-*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/obsolete-copy-check/)*
+*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/obsolete-copy-check/)*
 
 ## The outcome
 
@@ -76,9 +76,9 @@ Testing in your environment means running it on a past review you already know w
 
 ## Related workflow templates
 
-- [Write an SOP from how the work is done](https://fullypowered.ai/workflow templates/sop-from-how-the-work-is-done/)
-- [Shared folder filing plan](https://fullypowered.ai/workflow templates/shared-folder-filing-plan/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
+- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/)
+- [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 

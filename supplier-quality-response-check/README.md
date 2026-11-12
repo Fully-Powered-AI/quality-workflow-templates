@@ -2,7 +2,7 @@
 
 A quality or purchasing person who has raised a defect with a supplier gets the supplier's reply set against the finding: what is answered, what is not, the evidence still to ask for, the actions proposed and what has yet to be verified. The person decides whether the answer is accepted.
 
-*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/supplier-quality-response-check/)*
+*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-quality-response-check/)*
 
 ## The outcome
 
@@ -76,9 +76,9 @@ Testing in your environment means running it on a past finding and reply your qu
 
 ## Related workflow templates
 
-- [Supplier issue notice](https://fullypowered.ai/workflow templates/supplier-issue-notice/)
-- [Supplier performance scorecard](https://fullypowered.ai/workflow templates/supplier-performance-scorecard/)
-- [Incident investigation and corrective actions](https://fullypowered.ai/workflow templates/incident-investigation-and-corrective-actions/)
+- [Supplier issue notice](https://fullypowered.ai/workflows/supplier-issue-notice/)
+- [Supplier performance scorecard](https://fullypowered.ai/workflows/supplier-performance-scorecard/)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
 
 ## Make it yours
 

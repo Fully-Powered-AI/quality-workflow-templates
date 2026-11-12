@@ -2,7 +2,7 @@
 
 Before the periodic quality review, the quality lead gets one brief for senior leaders: where each measure stands, complaints and defects, audit findings, action status, and the decisions still open. The leaders decide; the brief claims no compliance with any standard.
 
-*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/quality-management-review-pack/)*
+*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/quality-management-review-pack/)*
 
 ## The outcome
 
@@ -82,8 +82,8 @@ Testing in your environment means running it on a past review your quality lead 
 ## Related workflow templates
 
 - [Obsolete copy check](../obsolete-copy-check/)
-- [Operations KPI scorecard](https://fullypowered.ai/workflow templates/operations-kpi-scorecard/)
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
+- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
 
 ## Make it yours
 

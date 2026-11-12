@@ -2,7 +2,7 @@
 
 An owner or operations lead who senses that rework, scrap and returns are costly gets one worksheet: the failure costs already on record, sorted by category, with estimates, gaps and unresolved allocations listed. The owner decides what to fix first.
 
-*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/cost-of-poor-quality-worksheet/)*
+*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cost-of-poor-quality-worksheet/)*
 
 ## The outcome
 
@@ -78,9 +78,9 @@ Testing in your environment means running it on a past quarter your finance cont
 
 ## Related workflow templates
 
-- [Repeat incident pattern review](https://fullypowered.ai/workflow templates/repeat-incident-pattern-review/)
-- [Product landed cost worksheet](https://fullypowered.ai/workflow templates/product-landed-cost-worksheet/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflow templates/budget-versus-actual-variance-commentary/)
+- [Repeat incident pattern review](https://fullypowered.ai/workflows/repeat-incident-pattern-review/)
+- [Product landed cost worksheet](https://fullypowered.ai/workflows/product-landed-cost-worksheet/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
 
 ## Make it yours
 

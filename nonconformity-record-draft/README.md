@@ -2,7 +2,7 @@
 
 A quality lead or supervisor who has spotted something wrong gets a draft record: the observation set against the stated requirement, the affected work counted from the register, and the containment options. The quality owner decides every call.
 
-*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/nonconformity-record-draft/)*
+*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/nonconformity-record-draft/)*
 
 ## The outcome
 
@@ -75,9 +75,9 @@ Testing in your environment means running it on past observations your quality l
 
 ## Related workflow templates
 
-- [Incident investigation and corrective actions](https://fullypowered.ai/workflow templates/incident-investigation-and-corrective-actions/)
-- [Complaint and refund request handling](https://fullypowered.ai/workflow templates/complaint-and-refund-request-handling/)
-- [Audit preparation](https://fullypowered.ai/workflow templates/audit-preparation/)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
+- [Complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/)
+- [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/)
 
 ## Make it yours
 

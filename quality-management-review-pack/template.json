@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before the periodic quality review, the quality lead gets one brief for senior leaders: where each measure stands, complaints and defects, audit findings, action status, and the decisions still open. The leaders decide; the brief claims no compliance with any standard.",
-  "directory": "https://fullypowered.ai/workflow templates/quality-management-review-pack/",
+  "directory": "https://fullypowered.ai/workflows/quality-management-review-pack/",
   "primary_function": "functions/quality-management",
   "functions": [
     "functions/quality-management",
