@@ -26,7 +26,7 @@
     "incident-investigation-and-corrective-actions"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -42,7 +42,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own published map of the work of checking a supplier's reply to a quality finding, and its own rules for prepared work: a fixed finding record with stated labels, a stop when an input does not match, every statement in the reply numbered and set against the request it answers, a promised action never counted as a completed or verified one, every gap written as a question or a request for evidence, and nothing accepted, sent, closed or changed until a person decides."
+      "title": "FullyPowered AI's own published map of the work of checking a supplier's reply to a quality finding, and its own rules for prepared work: a fixed finding record with stated labels, a stop when an input does not match, every statement in the reply numbered and set against the request it answers, a promised action never counted as a completed or verified one, every gap written as a question or a request for evidence, and nothing accepted, sent, closed or changed until a person decides."
     }
   ]
 }

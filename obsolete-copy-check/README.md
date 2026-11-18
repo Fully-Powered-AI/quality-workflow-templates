@@ -47,11 +47,11 @@ Fix the files and their column names once, so each review starts from the same e
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and it was not a blind trial, since the run had seen the published output before writing its own. The points that run and the independent review found open were settled afterwards, without a rerun. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and it was not a blind trial, since the run had seen the published output before writing its own. The points that run and the independent review found open were settled afterwards, without a rerun. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past review you already know well, with cases written in advance: a withdrawal recorded but the copy still there, a location nobody inventoried, an inventory that predates the withdrawal, a revision not on the history. Document control checks every finding against the physical copy before anyone relies on the report. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep. For writing the procedure itself, see [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/); for tidying electronic folders, see [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/).
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -82,4 +82,4 @@ Testing in your environment means running it on a past review you already know w
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
