@@ -3,7 +3,7 @@
 Gather the rework, scrap and return costs already on record into one worksheet, with gaps listed. The owner decides what to fix first.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Cost of poor quality worksheet on our website](https://fullypowered.ai/workflows/cost-of-poor-quality-worksheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Cost of poor quality worksheet on our website](https://fullypowered.ai/workflows/cost-of-poor-quality-worksheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

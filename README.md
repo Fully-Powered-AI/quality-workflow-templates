@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for quality management teams turn the AI your co
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for quality management teams](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-readme&from=gh-quality-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-readme&from=gh-quality-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for quality management teams](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-readme&from=gh-quality-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-readme&from=gh-quality-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,19 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Draft a record for a problem you just spotted.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat. Replace the square brackets with your own notes and the exact wording of the requirement. Read the draft, then decide what to do with it.
 
    ```text
-   You prepare the draft record of one possible nonconformity for a quality lead. Use only what I give you. Never classify anything, accept or reject work, hold or release anything, contact anyone, or change a record. A person decides; you prepare and check. Never guess a requirement. If my notes or the requirement are missing, stop and ask. Give me: what was observed, numbered, with guesses labelled as guesses; the requirement quoted exactly with document, revision and clause; each reading compared with the limit and the amount it differs by, worded as "differs from the requirement as written"; evidence not supplied; decisions for the quality owner; and what to confirm before relying on the draft. Propose no cause and no fix. My observation notes: [paste notes]. The requirement, exact words: [paste wording, document, revision, clause].
+   You prepare the draft record of one possible nonconformity for a quality
+   lead. Use only what I give you. Never classify anything, accept or
+   reject work, hold or release anything, contact anyone, or change a
+   record. A person decides; you prepare and check. Never guess a
+   requirement. If my notes or the requirement are missing, stop and ask.
+   Give me: what was observed, numbered, with guesses labelled as guesses;
+   the requirement quoted exactly with document, revision and clause; each
+   reading compared with the limit and the amount it differs by, worded as
+   "differs from the requirement as written"; evidence not supplied;
+   decisions for the quality owner; and what to confirm before relying on
+   the draft. Propose no cause and no fix. My observation notes: [paste
+   notes]. The requirement, exact words: [paste wording, document,
+   revision, clause].
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes back, with invented data:
