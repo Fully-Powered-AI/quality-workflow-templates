@@ -27,7 +27,7 @@ The document controller or the quality lead starts it when the agreed document-c
 
 ## What they supply
 
-- **The master document list:** one row per document, with its current revision, effective date, status and owner.
+- **The master document list,** exported from your document management system or the list you keep: one row per document, with its current revision, effective date, status and owner.
 - **The revision history,** so a superseded revision can be told from one that is simply unrecognised.
 - **The distribution list:** where each document should be held and how many copies.
 - **The point-of-use inventories:** what was found at each location, which revision, how many, in what form, and when it was checked.
