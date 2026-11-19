@@ -1,10 +1,17 @@
 # Nonconformity record draft
 
-A quality lead or supervisor who has spotted something wrong gets a draft record: the observation set against the stated requirement, the affected work counted from the register, and the containment options. The quality owner decides every call.
+Turn a quality lead's notes into a draft nonconformity record with affected work counted from the register and containment options. A person decides.
 
-*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/nonconformity-record-draft/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Nonconformity record draft on our website](https://fullypowered.ai/workflows/nonconformity-record-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/nonconformity-record-draft/?from=gh-quality-nonconformity-record-draft)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/nonconformity-record-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft)*
 
 ## The outcome
 
@@ -33,14 +40,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Quality management](https://fullypowered.ai/functions/quality-management/), where the first record of a problem sets the quality of everything after it.
-- [Operations & process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where supervisors find problems first and need a quick, consistent way to write them down.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where a lot made on one machine can carry the same problem across several shifts.
-- [Construction](https://fullypowered.ai/industries/construction/), where work is checked against specifications and the affected area has to be pinned down.
-- [Logistics & trade](https://fullypowered.ai/industries/logistics-and-trade/), where goods that differ from an order or a specification may already be on a vehicle.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where quality records have outgrown notes and memory.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft), where the first record of a problem sets the quality of everything after it.
+- [Operations & process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft), where supervisors find problems first and need a quick, consistent way to write them down.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft), where a lot made on one machine can carry the same problem across several shifts.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft), where work is checked against specifications and the affected area has to be pinned down.
+- [Logistics & trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft), where goods that differ from an order or a specification may already be on a vehicle.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft), where quality records have outgrown notes and memory.
 
-It stops where cause and action begin. [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/) covers cause and corrective actions once the record is accepted, and [complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/) covers a customer's complaint.
+It stops where cause and action begin. [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft) covers cause and corrective actions once the record is accepted, and [complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft) covers a customer's complaint.
 
 ## What has to change for your company
 
@@ -50,7 +57,7 @@ Name your quality owner and your safety role. Enter your classification scale; t
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and lists the edits made afterward that have not been run again. Only the path with no safety risk and no reading within the limit was exercised: the stop conditions and the refusals were not tried. It has not yet been tested in a client environment, and has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past observations your quality lead already knows, with cases written in advance: a reading on the limit, a lot that has shipped, a requirement with no revision, a similar closed record. The quality lead checks every figure against the notes and the register before anyone relies on the draft. [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/) is a good companion for keeping the records that go with it.
+Testing in your environment means running it on past observations your quality lead already knows, with cases written in advance: a reading on the limit, a lot that has shipped, a requirement with no revision, a similar closed record. The quality lead checks every figure against the notes and the register before anyone relies on the draft. [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft) is a good companion for keeping the records that go with it.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -77,10 +84,10 @@ Testing in your environment means running it on past observations your quality l
 
 ## Related workflow templates
 
-- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
-- [Complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/)
-- [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft)
+- [Complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft)
+- [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft).

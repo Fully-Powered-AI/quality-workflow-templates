@@ -1,10 +1,17 @@
 # Obsolete copy check
 
-The quality lead gets the master document list set against the copies found at each point of use: which copies are out of date, which withdrawn documents are still held, and what proof of withdrawal exists. The document owner withdraws and replaces copies; nothing is changed.
+Compare the master document list with copies found at each point of use to see out-of-date and withdrawn documents. Document control decides.
 
-*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/obsolete-copy-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Obsolete copy check on our website](https://fullypowered.ai/workflows/obsolete-copy-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/obsolete-copy-check/?from=gh-quality-obsolete-copy-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/obsolete-copy-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check)*
 
 ## The outcome
 
@@ -37,11 +44,11 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Quality management](https://fullypowered.ai/functions/quality-management/), where controlled documents are one of the first things an auditor asks to see in use.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where work instructions sit at the machine and a superseded one can stay there for months.
-- [Life sciences](https://fullypowered.ai/industries/life-sciences/), where the revision in use at the point of work matters as much as the one approved.
-- [Construction](https://fullypowered.ai/industries/construction/), where site teams work from printed method statements and drawings kept in cabins and vehicles.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where copies have accumulated over years and nobody has a full picture of them.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check), where controlled documents are one of the first things an auditor asks to see in use.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check), where work instructions sit at the machine and a superseded one can stay there for months.
+- [Life sciences](https://fullypowered.ai/industries/life-sciences/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check), where the revision in use at the point of work matters as much as the one approved.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check), where site teams work from printed method statements and drawings kept in cabins and vehicles.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check), where copies have accumulated over years and nobody has a full picture of them.
 
 ## What has to change for your company
 
@@ -51,7 +58,7 @@ Fix the files and their column names once, so each review starts from the same e
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and it was not a blind trial, since the run had seen the published output before writing its own. The points that run and the independent review found open were settled afterwards, without a rerun. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past review you already know well, with cases written in advance: a withdrawal recorded but the copy still there, a location nobody inventoried, an inventory that predates the withdrawal, a revision not on the history. Document control checks every finding against the physical copy before anyone relies on the report. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep. For writing the procedure itself, see [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/); for tidying electronic folders, see [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/).
+Testing in your environment means running it on a past review you already know well, with cases written in advance: a withdrawal recorded but the copy still there, a location nobody inventoried, an inventory that predates the withdrawal, a revision not on the history. Document control checks every finding against the physical copy before anyone relies on the report. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check) describes the record we keep. For writing the procedure itself, see [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check); for tidying electronic folders, see [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check).
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -78,10 +85,10 @@ Testing in your environment means running it on a past review you already know w
 
 ## Related workflow templates
 
-- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/)
-- [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check)
+- [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check).

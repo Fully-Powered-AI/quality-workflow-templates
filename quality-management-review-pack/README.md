@@ -1,10 +1,17 @@
 # Quality management review pack
 
-Before the periodic quality review, the quality lead gets one brief for senior leaders: where each measure stands, complaints and defects, audit findings, action status, and the decisions still open. The leaders decide; the brief claims no compliance with any standard.
+One brief for the periodic quality review: measures, complaints, audit findings, actions and open decisions. The leaders decide; no compliance is claimed.
 
-*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/quality-management-review-pack/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Quality management review pack on our website](https://fullypowered.ai/workflows/quality-management-review-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/quality-management-review-pack/?from=gh-quality-management-review-pack)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/quality-management-review-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack)*
 
 ## The outcome
 
@@ -38,15 +45,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Quality management](https://fullypowered.ai/functions/quality-management/), which owns the measures, the findings and the actions the review looks at.
-- [Leadership](https://fullypowered.ai/functions/leadership/), where the people who allocate resources and settle open questions need the picture on one page.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where yield, defects and supplier rejections are reviewed on a rhythm.
-- [Life sciences](https://fullypowered.ai/industries/life-sciences/), where records of findings and actions have to be kept in order for the review.
-- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/), where complaints from the field and defects from the line are read side by side.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the review pack is rebuilt by hand from several spreadsheets each cycle.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when volume rises faster than the quality lead's time to prepare for leaders.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack), which owns the measures, the findings and the actions the review looks at.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack), where the people who allocate resources and settle open questions need the picture on one page.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack), where yield, defects and supplier rejections are reviewed on a rhythm.
+- [Life sciences](https://fullypowered.ai/industries/life-sciences/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack), where records of findings and actions have to be kept in order for the review.
+- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack), where complaints from the field and defects from the line are read side by side.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack), where the review pack is rebuilt by hand from several spreadsheets each cycle.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack), when volume rises faster than the quality lead's time to prepare for leaders.
 
-It stays apart from two neighbours. [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/) is a monthly page of operating measures. This is the periodic quality review, which adds audits, actions and the leaders' open decisions. [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/) is the CEO's pre-read for one board decision. This brief is the quality lead's, covers the whole quality picture of a period, and ends in the decisions still open for the leaders.
+It stays apart from two neighbours. [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack) is a monthly page of operating measures. This is the periodic quality review, which adds audits, actions and the leaders' open decisions. [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack) is the CEO's pre-read for one board decision. This brief is the quality lead's, covers the whole quality picture of a period, and ends in the decisions still open for the leaders.
 
 ## What has to change for your company
 
@@ -56,7 +63,7 @@ Fix the measure sheet once, with one owner for each measure and a note of when a
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. The trial was not blind, and the template was revised after it and run again on the example by the model that revised it, which is not an independent test. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past review your quality lead remembers well, with cases written in advance: a measure whose definition changed, a month with no figure, an action marked done with no evidence, a decision carried from the last review. The quality lead checks every figure against its export before anyone relies on the brief. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past review your quality lead remembers well, with cases written in advance: a measure whose definition changed, a month with no figure, an action marked done with no evidence, a decision carried from the last review. The quality lead checks every figure against its export before anyone relies on the brief. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -84,9 +91,9 @@ Testing in your environment means running it on a past review your quality lead 
 ## Related workflow templates
 
 - [Obsolete copy check](../obsolete-copy-check/)
-- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/)
-- [Decision log](https://fullypowered.ai/workflows/decision-log/)
+- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-quality-management-review-pack&from=gh-quality-management-review-pack).

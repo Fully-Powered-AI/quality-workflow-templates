@@ -1,10 +1,17 @@
 # Supplier quality response check
 
-A quality or purchasing person who has raised a defect with a supplier gets the supplier's reply set against the finding: what is answered, what is not, the evidence still to ask for, the actions proposed and what has yet to be verified. The person decides whether the answer is accepted.
+Set a supplier's reply to a defect finding beside what was asked: what is answered, what is not and what is unverified. A person decides. Free template.
 
-*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-quality-response-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Supplier quality response check on our website](https://fullypowered.ai/workflows/supplier-quality-response-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/supplier-quality-response-check/?from=gh-supplier-quality-response-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-quality-response-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check)*
 
 ## The outcome
 
@@ -12,7 +19,7 @@ A supplier's reply to a quality finding is easy to read as an answer and hard to
 
 It then separates what the supplier has done from what the supplier has promised. A promised action is not a completed one, and a completed one is not a verified one, so each action is labelled with where it stands. The reply is also read against your own records: a lot the reply never mentions, a figure that differs from yours, a cause that explains only part of the failures.
 
-The result ends with the evidence still worth asking for, what must be seen before the finding can close, and the choices open to the owner. It accepts nothing, closes nothing and writes nothing to the supplier. For the notice that raises a problem, use [supplier issue notice](https://fullypowered.ai/workflows/supplier-issue-notice/); for the supplier's record over time, use [supplier performance scorecard](https://fullypowered.ai/workflows/supplier-performance-scorecard/).
+The result ends with the evidence still worth asking for, what must be seen before the finding can close, and the choices open to the owner. It accepts nothing, closes nothing and writes nothing to the supplier. For the notice that raises a problem, use [supplier issue notice](https://fullypowered.ai/workflows/supplier-issue-notice/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check); for the supplier's record over time, use [supplier performance scorecard](https://fullypowered.ai/workflows/supplier-performance-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check).
 
 ## Who starts the work, and when
 
@@ -34,14 +41,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Quality management](https://fullypowered.ai/functions/quality-management/), where findings are raised, replies judged and effectiveness checked.
-- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), where the same supplier relationship is managed commercially.
-- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/), where stock in transit and on hold has to be accounted for.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where a purchased part that fails often stops a line.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where a supplier's defect becomes a customer's complaint.
-- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/), where components come from many small suppliers.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where supplier replies pile up in inboxes and are judged from memory.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more suppliers and more findings outgrow one person's recall.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check), where findings are raised, replies judged and effectiveness checked.
+- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check), where the same supplier relationship is managed commercially.
+- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check), where stock in transit and on hold has to be accounted for.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check), where a purchased part that fails often stops a line.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check), where a supplier's defect becomes a customer's complaint.
+- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check), where components come from many small suppliers.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check), where supplier replies pile up in inboxes and are judged from memory.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check), when more suppliers and more findings outgrow one person's recall.
 
 ## What has to change for your company
 
@@ -51,7 +58,7 @@ Name the owner who decides whether a reply is accepted, and write down the agree
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the record of the second is published with it, and no edit has been made since. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past finding and reply your quality owner already knows well, plus cases written in advance: a reply that never mentions one lot, a promised action reported as done, a figure that differs from your records, a late reply, a finding label left out. The owner checks every line against the finding and the reply before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past finding and reply your quality owner already knows well, plus cases written in advance: a reply that never mentions one lot, a promised action reported as done, a figure that differs from your records, a late reply, a finding label left out. The owner checks every line against the finding and the reply before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -78,10 +85,10 @@ Testing in your environment means running it on a past finding and reply your qu
 
 ## Related workflow templates
 
-- [Supplier issue notice](https://fullypowered.ai/workflows/supplier-issue-notice/)
-- [Supplier performance scorecard](https://fullypowered.ai/workflows/supplier-performance-scorecard/)
-- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
+- [Supplier issue notice](https://fullypowered.ai/workflows/supplier-issue-notice/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check)
+- [Supplier performance scorecard](https://fullypowered.ai/workflows/supplier-performance-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-supplier-quality-response-check&from=gh-supplier-quality-response-check).

@@ -1,14 +1,59 @@
-# FullyPowered Workflow Templates: Quality Management
+# AI workflow templates for quality management
 
-Quality you can show, not just claim. These workflow templates take the recording, checking and reviewing behind a working quality system and give an AI assistant a precise way to prepare it. They certify nothing: the quality owner decides what conforms.
+FullyPowered Workflow Templates for quality management teams turn the AI your company already pays for into a team that knows how the work is done: a quality lead with the audit evidence indexed to each request, an operations lead with the cost of poor quality worksheet prepared, a purchasing person with the supplier's reply checked against the defect. 6 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
 
-**These are templates, made to be customized and deployed.** They are examples and a starting point, not a complete list: copy one, change it to fit how your team does the work, and run it in the AI you already pay for.
+We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
-**FullyPowered AI customizes and builds AI workflows that run in ChatGPT, Claude, Copilot and Gemini**, including ones that run several steps. [More examples for quality teams](https://fullypowered.ai/functions/quality-management/?from=gh-quality) · [Have one built for your team](https://fullypowered.ai/pricing/?from=gh-quality)
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for quality management teams](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-readme&from=gh-quality-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-readme&from=gh-quality-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-This repository holds 6 workflow templates for quality leads and the people who own a process. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+**Who this is for**
 
-## The workflow templates
+- Owners and CEOs who want quality work that is documented, current and ready when an audit asks.
+- Quality leads who want audits, reviews and corrective actions prepared the same careful way every time.
+- The person who owns a process, who gets a clear draft to work from and decides.
+
+**What these are for**
+
+- **Your best way of doing it, for the whole team.** One piece of work, written down precisely enough that an assistant prepares it the same way every time.
+- **Work you can check.** Every template says what it needs, what it produces, what it checked and what it could not.
+- **A person decides.** Anything that sends, posts, pays or changes a record waits for someone to approve it.
+- **Tied into your business systems.** A workflow can be designed to pull from the systems your company already runs, and even push data back into them, with guardrails and a person approving. [Browse the Connectors Directory](https://fullypowered.ai/connectors/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-readme&from=gh-quality-readme).
+- **Free, open and portable.** MIT-licensed plain instructions that run in the assistant or agent your team already uses: ChatGPT, Claude, Claude Code, Claude Cowork, Codex, Copilot, Gemini, Grok, Perplexity.
+
+**Quick start**
+
+1. **Draft a record for a problem you just spotted.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat. Replace the square brackets with your own notes and the exact wording of the requirement. Read the draft, then decide what to do with it.
+
+   ```text
+   You prepare the draft record of one possible nonconformity for a quality lead. Use only what I give you. Never classify anything, accept or reject work, hold or release anything, contact anyone, or change a record. A person decides; you prepare and check. Never guess a requirement. If my notes or the requirement are missing, stop and ask. Give me: what was observed, numbered, with guesses labelled as guesses; the requirement quoted exactly with document, revision and clause; each reading compared with the limit and the amount it differs by, worded as "differs from the requirement as written"; evidence not supplied; decisions for the quality owner; and what to confirm before relying on the draft. Propose no cause and no fix. My observation notes: [paste notes]. The requirement, exact words: [paste wording, document, revision, clause].
+   ```
+
+2. Read what comes back. It marks what it checked and what is left for you. What comes back, with invented data:
+
+   ```text
+   NONCONFORMITY RECORD (DRAFT): Bracket B-220, lot L-3314, flange height
+   Status: Draft for the quality lead. Suspected, not confirmed. Nothing classified, held, released, sent or recorded.
+   Record number: To be assigned by the quality lead.
+   Observed: 2026-11-10, about 07:45, by the early-shift supervisor, at press area rack 4. Prepared 2026-11-10 for the quality lead. Inputs read: the supervisor's notes; DWG-B220 revision C; the work register (seven rows; as-of date not given); the evidence list (three rows); the nonconformity log (two records).
+   Safety flag: None stated in the notes. This draft is not a safety assessment.
+
+   WHAT WAS OBSERVED
+   O1. Five parts picked at random from the 120 on rack 4 (lot L-3314, Bracket B-220, made on PB-4 on 2026-11-09), measured for flange height with caliper CAL-07, whose sticker shows calibration due 2026-11-30.
+   O2. Readings in mm: 41.2, 41.3, 41.1, 41.4 and 42.0. Five parts examined of 120.
+   O3. The drawing at the press is revision C. The supervisor has not checked the document register.
+   O4. The supervisor took photos and wrote the readings on a sheet.
+   O5. The rest of the lot has not been touched and is still on rack 4. Nobody has been told except the quality lead.
+   O6. The supervisor's belief, not an observation: the tool setting may have drifted. The supervisor has not looked.
+   ```
+
+3. Stop there. You will know if this is for you. When you want it fitted to your company, or built into your agents, [that is what we do](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-readme&from=gh-quality-readme).
+
+The quality owner decides what conforms, what is held and what is shared; the template prepares and checks, and nothing here certifies, sends or changes a record.
+
+These are samples and a starting point, made to be changed to fit your procedures, your records and your wording. Your own quality work may look different, and a workflow can be a single step or many, so if the work you do is not listed here it can still be built.
+
+## The quality workflow templates here today
 
 - **[Audit evidence index](audit-evidence-index/)**: The quality lead gets an index of everything an audit has asked to see: each request linked to the document that answers it, its version and owner, the records found and the gaps. The quality owner decides what is shared; nothing is certified or sent.
 - **[Cost of poor quality worksheet](cost-of-poor-quality-worksheet/)**: An owner or operations lead who senses that rework, scrap and returns are costly gets one worksheet: the failure costs already on record, sorted by category, with estimates, gaps and unresolved allocations listed. The owner decides what to fix first.
@@ -35,10 +80,10 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-readme&from=gh-quality-readme) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
-For the work these templates come from, by team and by task, see [AI workflow examples for quality teams](https://fullypowered.ai/functions/quality-management/).
+For the work these templates come from, by team and by task, see [AI workflow examples for quality teams](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-readme&from=gh-quality-readme).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-readme&from=gh-quality-readme).

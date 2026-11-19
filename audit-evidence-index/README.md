@@ -1,10 +1,17 @@
 # Audit evidence index
 
-The quality lead gets an index of everything an audit has asked to see: each request linked to the document that answers it, its version and owner, the records found and the gaps. The quality owner decides what is shared; nothing is certified or sent.
+Link every audit request to its document, revision, owner and records, with the gaps listed. The quality owner decides what is shared; nothing is sent.
 
-*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/audit-evidence-index/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Audit evidence index on our website](https://fullypowered.ai/workflows/audit-evidence-index/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-audit-evidence-index&from=gh-quality-audit-evidence-index) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/audit-evidence-index/?from=gh-quality-audit-evidence-index)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/audit-evidence-index/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-audit-evidence-index&from=gh-quality-audit-evidence-index)*
 
 ## The outcome
 
@@ -36,21 +43,21 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Quality management](https://fullypowered.ai/functions/quality-management/), where an audit request list lands on the quality owner and has to be answered from many people's files.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where an audit can ask for inspection, calibration and supplier records held in different places.
-- [Life sciences](https://fullypowered.ai/industries/life-sciences/), where the revision a record was made under matters as much as the record itself.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where customers audit project records and procedures held by different teams.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where records have built up across years and owners have changed.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-audit-evidence-index&from=gh-quality-audit-evidence-index), where an audit request list lands on the quality owner and has to be answered from many people's files.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-audit-evidence-index&from=gh-quality-audit-evidence-index), where an audit can ask for inspection, calibration and supplier records held in different places.
+- [Life sciences](https://fullypowered.ai/industries/life-sciences/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-audit-evidence-index&from=gh-quality-audit-evidence-index), where the revision a record was made under matters as much as the record itself.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-audit-evidence-index&from=gh-quality-audit-evidence-index), where customers audit project records and procedures held by different teams.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-audit-evidence-index&from=gh-quality-audit-evidence-index), where records have built up across years and owners have changed.
 
 ## What has to change for your company
 
-Fix the four files and their column names once, so every audit starts from the same exports. Decide your lead time, which sets the hand-off date. Decide which register status means a document is in force; the template assumes "Effective". Say whether a blank owner means vacant or simply not recorded. Agree who answers for a document with no owner. Choose how the index reaches the auditors, because the template only prepares it. Separate this index from broader preparation: [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/) covers a finance audit, and [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/) tidies where files live.
+Fix the four files and their column names once, so every audit starts from the same exports. Decide your lead time, which sets the hand-off date. Decide which register status means a document is in force; the template assumes "Effective". Say whether a blank owner means vacant or simply not recorded. Agree who answers for a document with no owner. Choose how the index reaches the auditors, because the template only prepares it. Separate this index from broader preparation: [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-audit-evidence-index&from=gh-quality-audit-evidence-index) covers a finance audit, and [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-audit-evidence-index&from=gh-quality-audit-evidence-index) tidies where files live.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, in two runs: an independent review changed the instruction block, the output format and the example after the first, and the record of the second is published with it. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past audit you know well, with cases written in advance: a request that names a document the register lacks, a record made under a superseded revision, a document with no owner, a request that only half-matches. The quality owner checks every link against the actual files before anyone relies on the index. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past audit you know well, with cases written in advance: a request that names a document the register lacks, a record made under a superseded revision, a document with no owner, a request that only half-matches. The quality owner checks every link against the actual files before anyone relies on the index. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-audit-evidence-index&from=gh-quality-audit-evidence-index) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-audit-evidence-index&from=gh-quality-audit-evidence-index) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -78,9 +85,9 @@ Testing in your environment means running it on a past audit you know well, with
 ## Related workflow templates
 
 - [Obsolete copy check](../obsolete-copy-check/)
-- [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/)
-- [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/)
+- [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-audit-evidence-index&from=gh-quality-audit-evidence-index)
+- [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-audit-evidence-index&from=gh-quality-audit-evidence-index)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-audit-evidence-index&from=gh-quality-audit-evidence-index).

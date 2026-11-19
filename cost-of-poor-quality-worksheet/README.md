@@ -1,10 +1,17 @@
 # Cost of poor quality worksheet
 
-An owner or operations lead who senses that rework, scrap and returns are costly gets one worksheet: the failure costs already on record, sorted by category, with estimates, gaps and unresolved allocations listed. The owner decides what to fix first.
+Gather the rework, scrap and return costs already on record into one worksheet, with gaps listed. The owner decides what to fix first.
 
-*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cost-of-poor-quality-worksheet/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Cost of poor quality worksheet on our website](https://fullypowered.ai/workflows/cost-of-poor-quality-worksheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/cost-of-poor-quality-worksheet/?from=gh-cost-of-poor-quality-worksheet)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cost-of-poor-quality-worksheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet)*
 
 ## The outcome
 
@@ -34,26 +41,26 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Quality management](https://fullypowered.ai/functions/quality-management/), where failures are recorded and where the cost of repeating them is rarely seen in one place.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), which owns the processes the worksheet points at.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which confirms the cost basis before the figures are used.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where scrap and rework are counted in hours and materials.
-- [Construction](https://fullypowered.ai/industries/construction/), where redoing work on site is the common failure.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where returns and credits are the visible cost.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where years of records exist and nobody has added them up.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the volume of work grows faster than the checks on it.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet), where failures are recorded and where the cost of repeating them is rarely seen in one place.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet), which owns the processes the worksheet points at.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet), which confirms the cost basis before the figures are used.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet), where scrap and rework are counted in hours and materials.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet), where redoing work on site is the common failure.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet), where returns and credits are the visible cost.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet), where years of records exist and nobody has added them up.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet), when the volume of work grows faster than the checks on it.
 
 ## What has to change for your company
 
 Agree your categories before the first run and keep them stable, because the totals are only as good as the labels. Decide with finance which costs count: whether a credit note is counted at its value, whether a returned item's lost value is included, and whether an hourly rate covers wages only. Set the period and how often it runs. Decide who reads the worksheet and who may see it. It runs in ChatGPT, Claude, Copilot or Gemini, from the exports you supply; it needs no access to any system.
 
-For a single product's import costs, use [product landed cost worksheet](https://fullypowered.ai/workflows/product-landed-cost-worksheet/). For why actual spending differs from plan, use [budget versus actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/). This one is about the cost of failures only.
+For a single product's import costs, use [product landed cost worksheet](https://fullypowered.ai/workflows/product-landed-cost-worksheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet). For why actual spending differs from plan, use [budget versus actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet). This one is about the cost of failures only.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once, with Claude, on its invented example on 10 November 2026; no stop condition was exercised in that run, and the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past quarter your finance contact already knows, plus cases written in advance: a column renamed in the export, a row with hours and no rate, the same write-off listed in two exports, a cost with no category. Finance checks every total against the books before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past quarter your finance contact already knows, plus cases written in advance: a column renamed in the export, a row with hours and no rate, the same write-off listed in two exports, a cost with no category. Finance checks every total against the books before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -80,10 +87,10 @@ Testing in your environment means running it on a past quarter your finance cont
 
 ## Related workflow templates
 
-- [Repeat incident pattern review](https://fullypowered.ai/workflows/repeat-incident-pattern-review/)
-- [Product landed cost worksheet](https://fullypowered.ai/workflows/product-landed-cost-worksheet/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
+- [Repeat incident pattern review](https://fullypowered.ai/workflows/repeat-incident-pattern-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet)
+- [Product landed cost worksheet](https://fullypowered.ai/workflows/product-landed-cost-worksheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-cost-of-poor-quality-worksheet&from=gh-cost-of-poor-quality-worksheet).
