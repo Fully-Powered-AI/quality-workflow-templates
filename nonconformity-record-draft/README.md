@@ -8,7 +8,7 @@ Turn a quality lead's notes into a draft nonconformity record with affected work
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/nonconformity-record-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft)*
@@ -36,7 +36,7 @@ A quality lead or a supervisor starts it right after finding the problem, in an 
 
 One draft record in a fixed order, with a place for everything the work needs: a safety flag first, the observations numbered, the requirement quoted, the comparison, the evidence and what is missing, the affected work with counts, similar records, the containment options with what each would cover, the decisions for the quality owner, and what to confirm. A section with nothing in it says so. No record number is invented; the quality owner assigns it.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -55,7 +55,7 @@ Name your quality owner and your safety role. Enter your classification scale; t
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and lists the edits made afterward that have not been run again. Only the path with no safety risk and no reading within the limit was exercised: the stop conditions and the refusals were not tried. It has not yet been tested in a client environment, and has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026; the record is published with it, and lists the edits made afterward that have not been run again. Only the path with no safety risk and no reading within the limit was exercised: the stop conditions and the refusals were not tried. It has not yet been tested in a client environment, and has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on past observations your quality lead already knows, with cases written in advance: a reading on the limit, a lot that has shipped, a requirement with no revision, a similar closed record. The quality lead checks every figure against the notes and the register before anyone relies on the draft. [Audit preparation](https://fullypowered.ai/workflows/audit-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-nonconformity-record-draft&from=gh-quality-nonconformity-record-draft) is a good companion for keeping the records that go with it.
 
@@ -63,13 +63,13 @@ Testing in your environment means running it on past observations your quality l
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

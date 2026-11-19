@@ -1,10 +1,10 @@
-# Trial of the cost of poor quality worksheet on its own invented example
+# Trial of the cost of poor quality worksheet on its own example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs for this trial are the invented example in `public/example.md` (Orrin Hollow Workshop, July to September 2026): the 15 failure rows, the 3 prevention and appraisal rows and the settings. No client data was used. The model that ran it did not write the template.
+The inputs for this trial are the example in `public/example.md` (Orrin Hollow Workshop, July to September 2026): the 15 failure rows, the 3 prevention and appraisal rows and the settings. No client data was used. The model that ran it did not write the template.
 
 ## How the trial was run
 
@@ -43,7 +43,7 @@ Ambiguities and weak points met:
 7. The procedure lists 12 steps and the instruction block 10. They agree in substance. The instruction block has one irregular line break in step 2 and is otherwise usable.
 8. The "Acceptance tests" are marked proposed and none was run. This trial covers only the normal-quarter case, with the same-write-off, no-category, no-product, blank-amount and outside-the-period cases all present in one set of rows. The stop conditions were not exercised.
 
-This is one run, by one model, on one invented example. It shows the template can be followed to the published result, not that it works on real exports.
+This is one run, by one model, on one example. It shows the template can be followed to the published result, not that it works on real exports.
 
 ## Edits after the independent review, 10 November 2026
 

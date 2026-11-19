@@ -279,4 +279,4 @@ completed" line.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026; the record is published with the template. Edited after that run, following an independent review, and not run again; the trial record lists the edits. Each settles an ambiguity the run found. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its example in Claude on 10 November 2026; the record is published with the template. Edited after that run, following an independent review, and not run again; the trial record lists the edits. Each settles an ambiguity the run found. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

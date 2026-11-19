@@ -1,6 +1,6 @@
-# Cost of poor quality worksheet: an invented example
+# Cost of poor quality worksheet: an example
 
-*Illustrative example with invented data.* Orrin Hollow Workshop, its products, documents and figures below are all invented. The inputs come first, then the worksheet.
+*Illustrative example with sample data.* Orrin Hollow Workshop, its products, documents and figures below are all illustrative. The inputs come first, then the worksheet.
 
 ## What the owner supplies
 

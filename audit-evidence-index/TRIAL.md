@@ -1,10 +1,10 @@
-# Audit evidence index: one trial on the invented example
+# Audit evidence index: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (`claude-sonnet-5-5`)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (the settings, the eight audit requests, the document register, the twelve records and the three earlier findings). The company, people, documents and records are all invented. No client data was used. The run followed the instruction block and the output format in `member/template.md`, and nothing else in the template.
+The inputs were the example in `public/example.md` (the settings, the eight audit requests, the document register, the twelve records and the three earlier findings). The company, people, documents and records are all illustrative. No client data was used. The run followed the instruction block and the output format in `member/template.md`, and nothing else in the template.
 
 This is the second run. An earlier run on the same date used the first version of the block; an independent review then found that the block left out rules the procedure depends on (an open linked finding becomes an item to settle; the list of ignored words in the overlap rule; the wording of the items for a possible match and for nothing found; the whole-system exception) and that the format had no wording for a missing location or date or for a records request with no linked document. The block, the format and the example were revised, and this record replaces the first. The first run's observations that led to those changes are listed under "What changed since the first run".
 
@@ -103,7 +103,7 @@ This index, built from the lists supplied for the internal audit of the quality 
   3. "Prepared for" takes the quality owner's role from the settings (a role, not a person). The template does not say what to print if the settings name a person.
   4. It is not stated whether a record linked to two requests counts once in "linked". I assumed once.
 - **What the first run showed that the example got wrong.** The example had named a person with no standing to act on SOP-PU-03 (a document with a blank owner) and had mixed a revision comparison into a document the template says to skip. Both were fixed in the example, so on this run the example and the template agree.
-- This is one further run, by one model, on an invented example, by an assistant that had already seen the published output. It is not a test in a client environment and says nothing about how the template performs on real audit lists.
+- This is one further run, by one model, on an example, by an assistant that had already seen the published output. It is not a test in a client environment and says nothing about how the template performs on real audit lists.
 
 ## Settled after this run
 

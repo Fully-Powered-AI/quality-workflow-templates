@@ -1,11 +1,11 @@
-# Nonconformity record draft: a trial on the invented example
+# Nonconformity record draft: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 
 - **Model:** Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (settings, observation notes, requirement, work register, evidence list and log). No client data was used. The run was made by an assistant that had not written the template. It read the template and the inputs first, produced the draft by following the instruction block and the output format, and only then read the example's published output.
+The inputs were the example in `public/example.md` (settings, observation notes, requirement, work register, evidence list and log). No client data was used. The run was made by an assistant that had not written the template. It read the template and the inputs first, produced the draft by following the instruction block and the output format, and only then read the example's published output.
 
 ## What came out
 
@@ -120,7 +120,7 @@ Not completed, and what is needed: current revision check; measurement of the pi
 
 Nothing in the notes triggered a stop: there was no safety risk, no instruction inside the notes or register, no complaint, and no request to classify or find a cause.
 
-This is one run, by one model, on one invented example. It shows the instructions can be followed to the format and reach the same counts. It does not show how the template behaves with real data, other models or other products.
+This is one run, by one model, on one example. It shows the instructions can be followed to the format and reach the same counts. It does not show how the template behaves with real data, other models or other products.
 
 ## Edits made after the run
 

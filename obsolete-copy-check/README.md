@@ -8,7 +8,7 @@ Compare the master document list with copies found at each point of use to see o
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/obsolete-copy-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check)*
@@ -40,7 +40,7 @@ If the columns of an export are named differently from those the template expect
 
 One report in a fixed order. It opens with a count of every copy found and a tie-out line proving the counts add up. Then come the out-of-date copies, each with the evidence of withdrawal on file; copies of withdrawn documents; unrecognised revisions; documents missing from the master list; coverage gaps; copies not yet due to change; and withdrawal records that match nothing found. The report ends with a numbered list of decisions for document control, and a line stating what it cannot prove.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -56,7 +56,7 @@ Fix the files and their column names once, so each review starts from the same e
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and it was not a blind trial, since the run had seen the published output before writing its own. The points that run and the independent review found open were settled afterwards, without a rerun. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026; the record is published with it, and it was not a blind trial, since the run had seen the published output before writing its own. The points that run and the independent review found open were settled afterwards, without a rerun. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past review you already know well, with cases written in advance: a withdrawal recorded but the copy still there, a location nobody inventoried, an inventory that predates the withdrawal, a revision not on the history. Document control checks every finding against the physical copy before anyone relies on the report. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check) describes the record we keep. For writing the procedure itself, see [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check); for tidying electronic folders, see [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=quality-obsolete-copy-check&from=gh-quality-obsolete-copy-check).
 
@@ -64,13 +64,13 @@ Testing in your environment means running it on a past review you already know w
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

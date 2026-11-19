@@ -1,10 +1,10 @@
-# Obsolete copy check: trial on the invented example
+# Obsolete copy check: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example's six input tables and settings, in `public/example.md`: review date 2026-11-09, inventory age limit 30 days, seven documents, seven history rows, nine distribution lines, fourteen inventory rows at seven locations and four withdrawal records. No client data was used. The run was one pass, with no follow-up questions.
+The inputs were the example's six input tables and settings, in `public/example.md`: review date 2026-11-09, inventory age limit 30 days, seven documents, seven history rows, nine distribution lines, fourteen inventory rows at seven locations and four withdrawal records. No client data was used. The run was one pass, with no follow-up questions.
 
 ## A limit on this trial
 

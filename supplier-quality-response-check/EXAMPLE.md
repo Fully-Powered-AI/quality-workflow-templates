@@ -1,6 +1,6 @@
-# Supplier quality response check: an invented example
+# Supplier quality response check: an example
 
-*Illustrative example with invented data.* The companies, the finding, the reply, the lots and every figure below are invented. Company K is an invented maker of insulated steel flasks. Supplier B, also invented, moulds the screw lids with silicone seals that Company K buys. Company K's supplier-quality owner raised a finding about leaking lids and has received Supplier B's reply. A quality technician prepares the check for the owner, who decides whether the answer is accepted. People are referred to by role.
+*Illustrative example with sample data.* The companies, the finding, the reply, the lots and every figure below are illustrative. Company K is an illustrative maker of insulated steel flasks. Supplier B, also invented, moulds the screw lids with silicone seals that Company K buys. Company K's supplier-quality owner raised a finding about leaking lids and has received Supplier B's reply. A quality technician prepares the check for the owner, who decides whether the answer is accepted. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The check follows.
 

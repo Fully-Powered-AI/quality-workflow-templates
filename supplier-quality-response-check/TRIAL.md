@@ -1,11 +1,11 @@
-# Supplier quality response check: tried on its invented example, second run
+# Supplier quality response check: tried on its example, second run
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of one run of the workflow template on its own invented example. The companies, lots and figures are all invented, and no client data was used. It is the second run on the same example. An earlier run the same day found defects in the instructions and the example; both were revised, and the run recorded here was made on the revised instruction block and the revised inputs. What the earlier run found, and what was changed, is at the end.
+This is a record of one run of the workflow template on its own example. The companies, lots and figures are all illustrative, and no client data was used. It is the second run on the same example. An earlier run the same day found defects in the instructions and the example; both were revised, and the run recorded here was made on the revised instruction block and the revised inputs. What the earlier run found, and what was changed, is at the end.
 
 ## Inputs used
 
@@ -123,7 +123,7 @@ This check compares the reply with the finding and the records supplied. It does
 4. D3 and D4 overlap in spirit (both are about stock the reply does not define). The model kept them apart because one concerns the sort and the other the hold.
 5. The order in which a reader should take the questions is not set, and the model did not rank them.
 
-**Shortcomings.** The output is long. "Addressed in full" for R2 may still be read as approval by a hurried reader; the status line says it is not, and D1 carries the gap. This is one run on one invented example in one product. It is not a test with a client.
+**Shortcomings.** The output is long. "Addressed in full" for R2 may still be read as approval by a hurried reader; the status line says it is not, and D1 carries the gap. This is one run on one example in one product. It is not a test with a client.
 
 ## What the earlier run found, and what was changed
 

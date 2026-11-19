@@ -1,10 +1,10 @@
-# Quality management review pack: a trial on its invented example
+# Quality management review pack: a trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (Quill Harbour Components, an invented company; the "history shown" line was removed from the settings after the first trial). No client data was used. The eight inputs are the ones listed under "The inputs" in the example: review settings, measure sheet, measure results (23 rows), complaints and defects (14 rows), audit results (5 rows), action register (8 rows), decisions from the previous review (3 rows) and owner notes (2 notes).
+The inputs are the example in `public/example.md` (Quill Harbour Components, an illustrative company; the "history shown" line was removed from the settings after the first trial). No client data was used. The eight inputs are the ones listed under "The inputs" in the example: review settings, measure sheet, measure results (23 rows), complaints and defects (14 rows), audit results (5 rows), action register (8 rows), decisions from the previous review (3 rows) and owner notes (2 notes).
 
 ## About this record
 
