@@ -4,6 +4,8 @@ An owner or operations lead who senses that rework, scrap and returns are costly
 
 *Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cost-of-poor-quality-worksheet/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/cost-of-poor-quality-worksheet/?from=gh-cost-of-poor-quality-worksheet)
+
 ## The outcome
 
 Most owners can feel what rework, scrap and returns cost long before anyone has added it up. The figures live in different places: a timesheet note here, a stock write-off there, a credit note in the accounts, a courier invoice nobody split. This workflow template gathers what is already on record into one worksheet for a period.

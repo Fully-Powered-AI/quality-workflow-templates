@@ -4,6 +4,8 @@ A quality or purchasing person who has raised a defect with a supplier gets the 
 
 *Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-quality-response-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/supplier-quality-response-check/?from=gh-supplier-quality-response-check)
+
 ## The outcome
 
 A supplier's reply to a quality finding is easy to read as an answer and hard to read as a comparison. This workflow template does the comparison. It takes the approved finding, lays each thing the finding asked for beside what the reply actually says, and marks each one as addressed in full, addressed in part, not addressed or disputed.

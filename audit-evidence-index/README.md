@@ -4,6 +4,8 @@ The quality lead gets an index of everything an audit has asked to see: each req
 
 *Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/audit-evidence-index/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/audit-evidence-index/?from=gh-quality-audit-evidence-index)
+
 ## The outcome
 
 An audit request list is easy to receive and slow to answer. Each line has to be traced to a document, the right revision found, the records behind it located, and someone chased when a piece is missing. This workflow template does that tracing in one pass, before the audit, so the gaps surface while there is still time to close them.

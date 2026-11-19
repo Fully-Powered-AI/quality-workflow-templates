@@ -4,6 +4,8 @@ Before the periodic quality review, the quality lead gets one brief for senior l
 
 *Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/quality-management-review-pack/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/quality-management-review-pack/?from=gh-quality-management-review-pack)
+
 ## The outcome
 
 The review meeting starts from decisions, not from a tour of charts. The quality lead walks in with one brief in a fixed order: each agreed measure against its target and its recent trend, the complaints and defects of the period, the audit findings and where each stands, every action with its owner and date, and what the leaders decided last time and whether it happened.

@@ -4,6 +4,8 @@ A quality lead or supervisor who has spotted something wrong gets a draft record
 
 *Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/nonconformity-record-draft/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/nonconformity-record-draft/?from=gh-quality-nonconformity-record-draft)
+
 ## The outcome
 
 Something looks wrong on the floor, and the notes are in a pocket or a message thread. This workflow template turns them into a draft record the quality owner can confirm or reject the same day. What was observed is kept apart from what is only suspected. The requirement is quoted in its own words, with its document and revision, and the observation is set against it with the difference worked out. The work that may be affected comes from your own register, with the pieces counted and anything already shipped called out.

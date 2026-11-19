@@ -4,6 +4,8 @@ The quality lead gets the master document list set against the copies found at e
 
 *Workflow template · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/obsolete-copy-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/obsolete-copy-check/?from=gh-quality-obsolete-copy-check)
+
 ## The outcome
 
 When a procedure is revised, the old version does not disappear on its own. It stays pinned above a bench, saved on a shared tablet or filed in a binder, and the people using it have no way to know. This workflow template gives the quality lead a clear answer to one question: where is an instruction in use that should no longer be?
